@@ -1,0 +1,8 @@
+MySQL:
+  host: "localhost"
+  database: "seniorsinventorysaver"
+  user: "root"
+  password: ""
+
+# Days
+RemoveInventoriesAfter: 15
